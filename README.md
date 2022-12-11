@@ -14,3 +14,5 @@ If installing the requirements file doesn't work, try:
 ```bash
 $ pip install kivy[full]
 ```
+
+<a href="https://www.buymeacoffee.com/azollner20N" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
